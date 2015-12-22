@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chrisward/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/chrisward/Workspace/MarvelMagic/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-53227f7e6d6ba05338f6fb81b4937625dc8f16e4.jar" />
+    </item>
+    <item
+        jar="/Users/chrisward/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/chrisward/Workspace/MarvelMagic/app/build/intermediates/pre-dexed/debug/library-1.0.19-0eb4a31ed57090b40959aae4872f9dbc5fa19d1e.jar" />
+    </item>
+    <item
+        jar="/Users/chrisward/Workspace/MarvelMagic/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/chrisward/Workspace/MarvelMagic/app/build/intermediates/pre-dexed/debug/classes-6150c1853b689c7f01674c7c69bfd0ea1eadf633.jar" />
+    </item>
+    <item
+        jar="/Users/chrisward/Workspace/MarvelMagic/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/chrisward/Workspace/MarvelMagic/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-a24bd832e113e6bc902998509be5710e9fe05244.jar" />
+    </item>
+
+</items>
