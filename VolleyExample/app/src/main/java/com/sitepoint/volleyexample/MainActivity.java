@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
     String hash = getMD5(ts + private_key + public_key);
     String limit = "10";
     String api_url = "http://gateway.marvel.com/v1/public/characters?ts=" + ts + "&apikey=" + public_key + "&hash=" + hash + "&limit=" + limit;
+
     public static final String TAG = "Marvel";
 
 
