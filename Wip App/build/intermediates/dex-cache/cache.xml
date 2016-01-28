@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/chrisward/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jar="/Users/chrisward/Workspace/MarvelMagic/Wip App/app/build/intermediates/exploded-aar/Wip App/volley/unspecified/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/Users/chrisward/Workspace/MarvelMagic/Wip App/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-53227f7e6d6ba05338f6fb81b4937625dc8f16e4.jar" />
+        sha1="08258bd934d44492f2b2b3767646be232e31c8b3">
+        <dex dex="/Users/chrisward/Workspace/MarvelMagic/Wip App/app/build/intermediates/pre-dexed/debug/classes-18c6cffb02f027abd3e00329d3181becde47161a.jar" />
     </item>
     <item
         jar="/Users/chrisward/Workspace/MarvelMagic/Wip App/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
@@ -16,18 +16,18 @@
         <dex dex="/Users/chrisward/Workspace/MarvelMagic/Wip App/app/build/intermediates/pre-dexed/debug/classes-0d60b251ab2778706d2ecc1a31a00815ccc8287b.jar" />
     </item>
     <item
+        jar="/Users/chrisward/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/chrisward/Workspace/MarvelMagic/Wip App/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-53227f7e6d6ba05338f6fb81b4937625dc8f16e4.jar" />
+    </item>
+    <item
         jar="/Users/chrisward/Workspace/MarvelMagic/Wip App/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
         <dex dex="/Users/chrisward/Workspace/MarvelMagic/Wip App/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-a82d703d807fdfb292337510ff8f1a359e282655.jar" />
-    </item>
-    <item
-        jar="/Users/chrisward/Workspace/MarvelMagic/Wip App/app/build/intermediates/exploded-aar/Wip App/volley/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="329553dc392b95d0d637dc835a6e95c497b2c281">
-        <dex dex="/Users/chrisward/Workspace/MarvelMagic/Wip App/app/build/intermediates/pre-dexed/debug/classes-18c6cffb02f027abd3e00329d3181becde47161a.jar" />
     </item>
 
 </items>
