@@ -27,7 +27,7 @@ public class MainActivity extends Activity {
     String public_key = "dfa06d77bc9c4f9f0ed01337848247e3";
     String private_key = "28368556487f21005668a0ac6cebbf7886945528";
     String hash = getMD5(ts + private_key + public_key);
-    String limit = "10";
+    String limit = "25";
     String api_url = "http://gateway.marvel.com/v1/public/characters?ts=" + ts + "&apikey=" + public_key + "&hash=" + hash + "&limit=" + limit;
 
     @Override
